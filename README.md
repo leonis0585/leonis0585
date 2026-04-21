@@ -36,10 +36,6 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About ME
-
 ```typescript
 class SeniorEngineer {
   constructor() {
@@ -76,10 +72,9 @@ const engineer = new SeniorEngineer();
 await engineer.build();
 ```
 
-<br clear="right"/>
-
 ### 🎯 Specialization Areas
 
+<div align="center">
 <table>
 <tr>
   <td align="center" width="25%">
@@ -96,7 +91,7 @@ await engineer.build();
   </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🗣️ Languages I Speak
@@ -245,7 +240,6 @@ await engineer.build();
 
 </div>
 </details>
----
 
 ## 📊 GitHub Analytics
 
@@ -258,20 +252,6 @@ await engineer.build();
 
 <div align="center">
   <a href="https://github.com/MrWhite4939">
-    <img src="https://nirzak-streak-stats.vercel.app?user=MrWhite4939&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=00FF41&currStreakLabel=7C3AED&sideLabels=7C3AED&dates=C9D1D9&stroke=7C3AED&currStreakNum=00FF41&sideNums=00FF41&border_radius=10" alt="GitHub Streak" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/MrWhite4939">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrWhite4939&bg_color=0d1117&color=7c3aed&line=00ff41&point=00ff41&area=true&hide_border=true&custom_title=Contribution%20Graph&title_color=7c3aed&area_color=7c3aed&radius=10" alt="Contribution Graph" width="95%"/>
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrWhite4939&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies"/>
 </div>
