@@ -9,7 +9,7 @@
 
 <!-- Typing Animation -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%80+Building+scalable+web+%26+mobile+apps+that+solve+real+problems;%E2%9A%99%EF%B8%8F++Architecting+cloud+infrastructure+that+never+sleeps;%F0%9F%92%A1+Turning+complex+challenges+into+elegant%2C+production-ready+solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Three.js+%26+WebGL+Focused;AI+%26+Web+Development+Focused;Full+Stack+Web+%26+AI+Developer;AI+%26+WebGL+Innovations)](https://git.io/typing-svg)
 
 </div>
 
@@ -78,19 +78,16 @@ await engineer.build();
 <table>
 <tr>
   <td align="center" width="25%">
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="60"/><br/>
+    <img src="./threejs.svg" width="60"/><br/>
+  </td>
+  <td align="center" width="25%">
+    <img src="./ai.svg" width="60"/><br/>
   </td>
   <td align="center" width="25%">
     <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60"/><br/>
   </td>
   <td align="center" width="25%">
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60"/><br/>
-  </td>
-  <td align="center" width="25%">
     <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="60"/><br/>
-  </td>
-  <td align="center" width="25%">
-    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 256 259" fill="#000000"><path d="M.087 3.585C-.446 1.427 1.555-.5 3.691.116l62.23 17.916a2.94 2.94 0 0 1 1.578.455l122.73 35.334c.508.01 1.01.155 1.446.416l62.234 17.918c2.138.616 2.807 3.316 1.203 4.858l-187.8 180.649c-1.603 1.542-4.274.77-4.807-1.39L31.353 130.16a2.948 2.948 0 0 1-.098-.396Zm53.306 191.71l13.52 54.733l40.714-39.165l-54.234-15.568Zm41.938-43.284l-39.419 37.995l52.512 15.076l-13.093-53.071Zm5.851-.406l13.052 52.903l39.311-37.814l-52.363-15.089Zm-63.07-18.174l13.109 53.073l39.372-37.95l-52.481-15.123Zm103.704-26.278l-40.051 38.606l53.373 15.38l-13.322-53.986Zm5.612-1.373l13.322 53.984l40.161-38.631l-53.483-15.353ZM79.847 89.239l-40.137 38.64l53.471 15.407l-13.334-54.047Zm5.59-1.457l13.094 53.07l39.419-37.996l-52.512-15.074ZM22.385 69.759L35.71 123.71l40.108-38.612l-53.434-15.339Zm166.192-7.49l-39.419 37.995l52.512 15.076l-13.093-53.071Zm5.633-1.29l13.28 53.826l40.008-38.484l-53.288-15.342Zm-67.86-16.506L87.109 82.25l52.265 15.003l-13.023-52.78Zm5.601-1.419l13.112 53.134l39.43-38.007l-52.542-15.127ZM64.338 26.48L24.919 64.476L77.431 79.55L64.338 26.48Zm5.638-1.269l13.061 52.937l39.323-37.855l-52.384-15.082ZM6.894 7.05l13.323 53.935l40.022-38.577L6.894 7.05Z"/></svg>
   </td>
 </tr>
 </table>
@@ -101,10 +98,9 @@ await engineer.build();
 
 <div align="center">
 
-|    Language     | Fluency Level |   Proficiency    |
-| :-------------: | :-----------: | :--------------: |
-| 🇬🇧 **English**  |  ▰▰▰▰▰▰▰▰▰▰   | **Professional** |
-| 🇯🇵 **Japanese** |  ▰▰▰▰▰▰▰▰▰▰   |    **Native**    |
+|    Language    | Fluency Level |   Proficiency    |
+| :------------: | :-----------: | :--------------: |
+| 🇬🇧 **English** |  ▰▰▰▰▰▰▰▰▰▰   | **Professional** |
 
 </div>
 
