@@ -39,9 +39,8 @@
 ```typescript
 class SeniorEngineer {
   constructor() {
-    this.name = "Jeremy (apogod13)";
-    this.role = "Senior Software Engineer";
-    this.location = "???";
+    this.name = "Leonis(leonis0585)";
+    this.role = "Senior Fullstack Developer";
     this.expertise = [
       "Full-Stack Web Development",
       "Mobile App Development",
