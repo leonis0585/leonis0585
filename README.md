@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=I%20am%20APO&reversal=false&textBg=false](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Loenis&fontAlignY=45&textBg=false&animation=twinkling)"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Loenis&fontAlignY=45&textBg=false&animation=twinkling"/>
 
 </div>
 
