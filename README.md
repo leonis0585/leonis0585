@@ -37,7 +37,7 @@
 <br/>
 
 ```typescript
-class SeniorEngineer {
+class Leonis {
   constructor() {
     this.name = "Leonis(leonis0585)";
     this.role = "Senior Fullstack Developer";
@@ -67,8 +67,8 @@ class SeniorEngineer {
   }
 }
 
-const engineer = new SeniorEngineer();
-await engineer.build();
+const developer = new Leonis();
+await developer.build();
 ```
 
 ### 🎯 Specialization Areas
